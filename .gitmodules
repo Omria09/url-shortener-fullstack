@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Omria09/url-shortener-backend.git
+[submodule "fronted"]
+	path = fronted
+	url = https://github.com/Omria09/url-shortener-fronted.git
