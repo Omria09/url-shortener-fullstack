@@ -29,7 +29,7 @@ git submodule update
    ```
 3. Add a `.env` file in the `backend` directory with the following content:
    ```
-   MONGO_URI=mongodb+srv://omria09:<password>@url-shortener-db.6ctli.mongodb.net/urlShortener?retryWrites=true&w=majority&appName=url-shortener-db
+   MONGO_URI=mongodb+srv://<username>:<password>@/<clutter>.mongodb.net/<dbname>?retryWrites=true&w=majority&appName=url-shortener-db
    ```
 4. Start MongoDB:
    ```bash
